@@ -1,5 +1,5 @@
 {
-  "name": "swiss",
+  "name": "gouda",
   "version": "0.0.1",
   "description": "A templating engine for CSS",
   "main": "index.js",
@@ -20,6 +20,6 @@
     "run-sequence": "^1.0.2"
   },
   "bin": {
-    "swiss": "./bin/swiss"
+    "gouda": "./bin/gouda"
   }
 }
