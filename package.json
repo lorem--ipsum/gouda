@@ -1,6 +1,6 @@
 {
   "name": "gouda",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A templating engine for CSS",
   "main": "build/gouda.js",
   "scripts": {
