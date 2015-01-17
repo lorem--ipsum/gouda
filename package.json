@@ -2,7 +2,7 @@
   "name": "gouda",
   "version": "0.0.1",
   "description": "A templating engine for CSS",
-  "main": "index.js",
+  "main": "build/gouda.js",
   "scripts": {
     "test": "gulp"
   },
